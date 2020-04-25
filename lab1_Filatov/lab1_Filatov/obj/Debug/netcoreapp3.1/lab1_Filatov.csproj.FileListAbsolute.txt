@@ -1,0 +1,12 @@
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/obj/Debug/netcoreapp3.1/lab1_Filatov.csprojAssemblyReference.cache
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/obj/Debug/netcoreapp3.1/lab1_Filatov.csproj.CoreCompileInputs.cache
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/obj/Debug/netcoreapp3.1/lab1_Filatov.AssemblyInfoInputs.cache
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/obj/Debug/netcoreapp3.1/lab1_Filatov.AssemblyInfo.cs
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/bin/Debug/netcoreapp3.1/lab1_Filatov.deps.json
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/bin/Debug/netcoreapp3.1/lab1_Filatov.runtimeconfig.json
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/bin/Debug/netcoreapp3.1/lab1_Filatov.runtimeconfig.dev.json
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/bin/Debug/netcoreapp3.1/lab1_Filatov.dll
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/bin/Debug/netcoreapp3.1/lab1_Filatov.pdb
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/obj/Debug/netcoreapp3.1/lab1_Filatov.dll
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/obj/Debug/netcoreapp3.1/lab1_Filatov.pdb
+/Users/radhold/Projects/lab1_Filatov/lab1_Filatov/obj/Debug/netcoreapp3.1/lab1_Filatov.genruntimeconfig.cache
